@@ -10,6 +10,6 @@ Not much, just tweaked the appearance a little bit here and there.
 
 ## How the app looks like
 <figure>
-<img height=700px src="https://github.com/athiyadeviyani/react-todo-app/blob/master/IMG_9580.PNG">
+<img width=30% src="https://github.com/athiyadeviyani/react-todo-app/blob/master/IMG_9580.PNG">
   <figcaption>looks very sleek, ngl</figcaption>
   </figure>
